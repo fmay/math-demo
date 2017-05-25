@@ -1,0 +1,67 @@
+[
+ {
+  "type": "free-text",
+  "taskId": "free-text-1564539500",
+  "source": {
+   "name": "Diff Eq 1",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2828930591",
+  "source": {
+   "name": "Second Derivative 1",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2549205001",
+  "source": {
+   "name": "Second derivative 2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1493815007",
+  "source": {
+   "name": "MCQ",
+   "showName": true,
+   "instructions": "Provide your answer below.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "97258f31-2bd0-786f-d83e-2ab45d102cd8",
+     "correct": false,
+     "answer": "12x"
+    },
+    {
+     "_id": "f4646f64-82ea-5277-ece0-45689ed48357",
+     "correct": false,
+     "answer": "24"
+    },
+    {
+     "_id": "0b29f46f-28a1-f15d-6926-73e526b66f89",
+     "correct": true,
+     "answer": "24x"
+    }
+   ]
+  }
+ }
+]
