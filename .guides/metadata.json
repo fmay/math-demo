@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "547c8669-395e-de78-c104-f1fa59cc7f70",
-   "title": "Contents",
+   "title": "Tutorial content",
    "files": [
     {
      "path": "#tabs",
@@ -12,10 +12,67 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Contents-547c.md",
+   "content-file": ".guides/content/Tutorial-content-547c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e8edd909-7161-e7fe-54b2-55366caa1824",
+   "title": "The tangent to a curve",
+   "files": [
+    {
+     "path": ".guides/img/02constructingTheTangent.png",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-tangent-to-a-curve-e8ed.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "761e0cc3-c6d8-68b3-a22a-ed9f3275ad8d",
+   "title": "An example - tangent to a parabola",
+   "files": [
+    {
+     "path": ".guides/img/02DeltaxDeltaynocaption.png",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/An-example---tangent-to-a-parabola-761e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0481b577-9ab2-2ed3-f5a2-169d268d0390",
+   "title": "Second Derivative",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Second-Derivative-0481.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "03ae61d3-7bb6-39c7-a3fe-7ad262c5a795",
@@ -32,7 +89,8 @@
    "content-file": ".guides/content/Video---Tangent-to-a-curve-03ae.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "57077352-53b1-2add-4754-c33899175fb5",
@@ -95,43 +153,8 @@
       "key": "10c6e770-df23-49c4-b438-551124434667"
      }
     ]
-   }
-  },
-  {
-   "id": "e8edd909-7161-e7fe-54b2-55366caa1824",
-   "title": "The tangent to a curve",
-   "files": [
-    {
-     "path": ".guides/img/02constructingTheTangent.png",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/The-tangent-to-a-curve-e8ed.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "761e0cc3-c6d8-68b3-a22a-ed9f3275ad8d",
-   "title": "An example - tangent to a parabola",
-   "files": [
-    {
-     "path": ".guides/img/02DeltaxDeltaynocaption.png",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/An-example---tangent-to-a-parabola-761e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
+   },
+   "learningObjectives": ""
   },
   {
    "id": "a441bd8d-2ba1-2329-759c-da1031161127",
@@ -148,24 +171,26 @@
    "content-file": ".guides/content/Lecture-notes-a441.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": true
+   "teacherOnly": true,
+   "learningObjectives": ""
   },
   {
-   "id": "0481b577-9ab2-2ed3-f5a2-169d268d0390",
-   "title": "Second Derivative",
+   "id": "1fde82e3-f8a6-173d-6ec1-4670c5a7c63f",
+   "title": "Challenges",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     }
    ],
-   "layout": "1-panel",
+   "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Second-Derivative-0481.md",
+   "content-file": ".guides/content/Challenges-1fde.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "5b790942-a057-dd2a-23ea-18f3c844fe4c",
@@ -182,7 +207,8 @@
    "content-file": ".guides/content/Challenge-5b79.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "5d8dc9a0-7fec-ede2-f71a-04c7e3f1ff2c",
@@ -193,7 +219,8 @@
    "content-file": ".guides/content/Challenge-5d8d.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "41f05f45-810a-268f-ac26-c10f3e9756a3",
@@ -210,7 +237,8 @@
    "content-file": ".guides/content/Assessment-1-41f0.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "39289c8c-c4f3-1dc8-8d22-984a42655355",
@@ -221,12 +249,26 @@
    "content-file": ".guides/content/MCQ-3928.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0435cab7-e4a7-aaf2-5f63-a833ea59ed6d",
+   "title": "New Section 12",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-12-0435.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
  "suppressPageNumbering": false,
- "hideMenu": false
+ "hideMenu": false,
+ "allowGuideClose": false
 }
